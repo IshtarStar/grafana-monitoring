@@ -1,0 +1,5 @@
+apiVersion: v2
+name: grafana-monitoring
+description: Custom Helm chart for Grafana, Prometheus and Blackbox Exporter
+version: 0.1.0
+appVersion: "1.0"
