@@ -1,0 +1,15 @@
+.idea/
+*.iml
+*.iws
+*.ipr
+*.log
+.DS_Store
+charts/*.tgz
+tmp/
+tests/tmp/
+coverage/
+*.kubeconfig
+.env
+.env.local
+node_modules/
+vendor/
